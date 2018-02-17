@@ -1,0 +1,16 @@
+/* BASE LAYOUT START  */
+
+.linkContainer {
+  display: flex;
+  background-color: lightgray
+}
+
+.linkContainer div {
+  margin: 10px
+}
+
+
+img {
+  height: 30%;
+  width: 30%;
+}
